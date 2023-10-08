@@ -1,0 +1,90 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.navbar{  
+    padding: 10px;
+    margin: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color:#5F714B;
+    position:relative  ;
+}
+#links{
+    display: block;
+    float: right;
+
+}
+#links a{
+    text-decoration: none;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid black;
+    color: rgb(0, 0, 0);
+    text-align: center; 
+}
+#links a:hover {
+    background-color:#6c8550;
+  }
+
+
+.body{
+    border-top:1px solid burlywood ;
+    border-bottom: 2px solid burlywood;
+    background-image: url(Register-Login.jpeg);
+    background-repeat: inherit;
+    min-height: 82.1vh;
+    color: blanchedalmond;
+    
+    
+}
+#text{
+text-align: center;
+color: blanchedalmond;
+}
+.body h1{
+    font-family:'Trebuchet MS', sans-serif;   
+    color: rgb(223, 173, 99);
+}
+
+.highlight{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #5F714B; 
+    color:blanchedalmond;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+
+.footer {
+   
+    background-color:#5F714B;
+    padding: 2px;
+    color: blanchedalmond;
+    min-height: 45px;
+
+  }
+#footerlinks{
+float: right;
+
+
+}
+#footertext{
+
+text-align: left;
+
+}
+
+.gallery {
+    border-top:1px solid burlywood ;
+    border-bottom: 2px solid burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:blanchedalmond;
+    background-image: url(Register-Login.jpeg);
+    background-repeat: inherit;
+    padding: 20px;
+}
+
+
